@@ -1,0 +1,14 @@
+
+# Raw dataset
+Cyclistic_Data/
+
+# DuckDB database
+*.duckdb
+*.wal
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Colab checkpoints
+.ipynb_checkpoints/
